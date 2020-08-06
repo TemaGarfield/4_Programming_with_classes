@@ -8,6 +8,10 @@ import by.kotik.task1.entity.Word;
 import by.kotik.task1.logic.SentenceLogic;
 import by.kotik.task1.logic.TextLogic;
 
+/*
+*1. Создать объект класса Текст, используя классы Предложение, Слово. Методы: Дополнить текст, вывести на консоль текст, заголовок текста.
+*/
+
 public class Main {
 	public static void main(String[] args) {
 		ArrayList<Word> sentence = new ArrayList<>();
