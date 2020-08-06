@@ -1,2 +1,2 @@
-#Aggregation&Composition
-#Агрегация и композиция.
+# Aggregation&Composition
+## Агрегация и композиция.
